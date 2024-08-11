@@ -1,0 +1,24 @@
+
+.odd {
+    background-color: palevioletred; 
+    font-family: Verdana, DejaVu Sans, sans-serif; 
+    color: black; 
+}
+
+
+#div1 {
+    color: blue; 
+    font-size: 36px; 
+}
+
+
+p.odd.special {
+    font-size: 24px; 
+}
+
+
+#div2 {
+    background-color: lightgreen; 
+    font-size: 24px; 
+    font-weight: bold; 
+}
